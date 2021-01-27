@@ -19,5 +19,8 @@
   "homepage": "https://github.com/marcosCorreia/teste-git#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.0.0"
   }
 }
